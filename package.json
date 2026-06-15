@@ -1,6 +1,6 @@
 {
   "name": "ember-css-modules-sass",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An ember-css-modules plugin that configures the build pipeline for use with Sass",
   "keywords": [
     "ember-addon",
@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.7.0",
-    "dummy-addon": "link:tests/dummy-addon",
     "ember-ajax": "^3.0.0",
     "ember-cli": "~3.3.0",
     "ember-cli-babel": "^6.6.0",
